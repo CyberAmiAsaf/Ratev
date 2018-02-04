@@ -435,7 +435,6 @@ if __name__ == '__main__':
     print UserInfo1.get_data()
     print UserInfo1.get_sorted_list_of_topics_ids_by_rate_and_appearing()
     print UserInfo1.get_sorted_list_of_channels_ids_by_rate_and_appearing()
-    print "dddd"
     print UserInfo1.get_sorted_dicts_of_tags_by_sorted_topics()
     #print UserInfo1.get_sorted_list_of_channels_ids_by_rate_and_appearing()
     #print UserInfo1.get_sorted_list_of_tags_by_rate_and_appearing()
